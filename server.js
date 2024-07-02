@@ -5,7 +5,7 @@ const app = express();
 // Port to listen on (replace with desired port)
 const port = 5000;
 app.use(bodyParser.json());
-
+console.log("lets start");
 const questionBank = {
   LAW101: [
     /* Existing questions */
