@@ -1,11 +1,11 @@
 {
-  "name": "question_bank",
+  "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "server",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server",
+    "start": "nodemon server",
     "dev": "nodemon server"
   },
   "keywords": [],
