@@ -1,8 +1,12 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-const path = require("path");
 
+const cors = require("cors");
 const app = express();
+
+app.use(cors());
+app.use(express.json());
+
 // app.use(express.static(path.join(__dirname, "../frontend/build")));
 
 // app.get("*", (req, res) => {
