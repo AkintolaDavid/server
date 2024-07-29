@@ -100,29 +100,31 @@ const questionBank = {
         "Profit maximization",
         "Disease prevention",
         "Improving quality of life",
-        "Technological advancement"
+        "Technological advancement",
       ],
-      answer: "Improving quality of life"
+      answer: "Improving quality of life",
     },
     {
-      question: "Which of the following is NOT a key component of the healthcare system?",
+      question:
+        "Which of the following is NOT a key component of the healthcare system?",
       answerOptions: [
         "Providers",
         "Payers",
         "Patients",
-        "Technology companies"
+        "Technology companies",
       ],
-      answer: "Technology companies"
+      answer: "Technology companies",
     },
     {
-      question: "What is the term for a healthcare professional who provides primary care services?",
+      question:
+        "What is the term for a healthcare professional who provides primary care services?",
       answerOptions: [
         "Specialist",
         "Surgeon",
         "Nurse practitioner",
-        "Primary care physician"
+        "Primary care physician",
       ],
-      answer: "Primary care physician"
+      answer: "Primary care physician",
     },
     {
       question: "What is the primary function of health insurance?",
@@ -130,29 +132,31 @@ const questionBank = {
         "Providing preventive care",
         "Covering healthcare costs",
         "Conducting medical research",
-        "Managing hospitals"
+        "Managing hospitals",
       ],
-      answer: "Covering healthcare costs"
+      answer: "Covering healthcare costs",
     },
     {
-      question: "Which of the following is a common type of healthcare delivery system?",
+      question:
+        "Which of the following is a common type of healthcare delivery system?",
       answerOptions: [
         "Fee-for-service",
         "Managed care",
         "Public health",
-        "All of the above"
+        "All of the above",
       ],
-      answer: "All of the above"
+      answer: "All of the above",
     },
     {
-      question: "What is the term for a healthcare professional who assists doctors and nurses?",
+      question:
+        "What is the term for a healthcare professional who assists doctors and nurses?",
       answerOptions: [
         "Pharmacist",
         "Medical assistant",
         "Physical therapist",
-        "Dietitian"
+        "Dietitian",
       ],
-      answer: "Medical assistant"
+      answer: "Medical assistant",
     },
     {
       question: "What is the primary role of public health?",
@@ -160,12 +164,12 @@ const questionBank = {
         "Providing individual patient care",
         "Protecting and improving community health",
         "Conducting medical research",
-        "Managing hospitals"
+        "Managing hospitals",
       ],
-      answer: "Protecting and improving community health"
-    }
-  ]
-  
+      answer: "Protecting and improving community health",
+    },
+  ],
+
   CON221: [{ question: "What are the elements of a valid constitution?" }],
   // ... and so on for other courses
 };
